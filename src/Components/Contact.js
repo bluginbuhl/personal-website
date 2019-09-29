@@ -19,8 +19,7 @@ class Contact extends Component {
           </div>
         </div>
 
-        <div className="disabled">
-        <div className="row">
+        {/* <div className="row">
           <div className="twelve columns">
             <form action="" method="post" id="contactForm" name="contactForm">
               <fieldset>
@@ -53,8 +52,7 @@ class Contact extends Component {
               </fieldset>
             </form>
           </div>
-        </div>
-        </div>
+        </div> */}
 
         <div id="message-warning">Sorry, this is not currently implemented! Please email me directly at ben.luginbuhl@gmail.com</div>
         <div id="message-success">
