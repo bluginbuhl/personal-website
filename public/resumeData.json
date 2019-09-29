@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name":"Benjamin R. Luginbuhl",
+    "occupation":"PhD Candidate   |   Data Scientist   |   Software Engineer   |   Educator",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"Hi, my name's Ben. I'm a PhD candidate in Chemistry at the University of California, Santa Barbara. I love all things related to energy science, education, and design. This website is a place for me to put my resume out in the world, as well as to hone my web design skills.",
+    "contactmessage":"This contact form is not currently implemented! Please get in touch by emailing me directly: ben.luginbuhl@gmail.com",
+    "email": "ben.luginbuhl@gmail.com",
+    "phone": "",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "http://www.benluginbuhl.com",
+    "resumedownload":"/Luginbuhl_CV.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/benluginbuhl/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/bluginbuhl",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/ben.luginbuhl.5",
+        "className":"fa fa-facebook"
+      }
+   ]
+  },
+  "resume":{
+    "skillmessage":"Here are a few selected skills and my self-rated proficiencies.",
+    "education":[
+      {
+        "school":"University of California, Santa Barbara",
+        "degree":"Ph.D. Materials Chemistry",
+        "graduated":"Summer 2020",
+        "description":"I work primarily in the group of Professor Quyen Nguyen. My research focuses on understanding the underlying physics of organic semiconductor devices, including solar cells, photodetectors, and light-emitting diodes."
+      },
+      {
+        "school":"Northern Arizona University",
+        "degree":"B.S. Biochemistry",
+        "graduated":"May 2015",
+        "description":"Graduated magna cum laude (GPA 3.89) with minors in Biology, Mathematics, and Physics. I did research in the labs of Dr. Cindy Browder and Dr. Constantin Ciocanel on device physics of structural supercapacitors."
+      }
+    ],
+    "work":[
+      {
+        "company":"Invoca, Inc.",
+        "title":"Software Engineer - Intern",
+        "years":"June 2019 - Present",
+        "description":"Invoca is an AI-powered call-tracking and analytics company. My work at the company is focused on web application development using Ruby on Rails and ReactJS."
+      },
+      {
+        "company":"University of California, Santa Barbara",
+        "title":"Graduate Teaching Assistant",
+        "years":"September 2015 - Present",
+        "description":"I teach General Chemistry labs, including honors sections. I also work in the Mass Spectroscopy Facility."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"Graphic Design",
+        "level":"75%"
+      },
+      {
+        "name":"Blender",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
