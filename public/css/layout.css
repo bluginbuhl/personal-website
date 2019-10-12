@@ -334,11 +334,13 @@ ul#nav li.current a {
 
   margin: 0;
   padding-right: 24px;
-  	background: #008080;
+  background: #008080;
   display: inline-block;
-  	height: 20px;
+  height: 20px;
   line-height: 20px;
   border-radius: 3px 0 0 3px;
+
+  visibility: hidden !important;
 }
 
 /*

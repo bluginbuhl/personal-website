@@ -5,7 +5,7 @@
     "description":"",
     "image":"profilepic.jpg",
     "bio":"Hi, my name's Ben. I'm a PhD candidate in Chemistry at the University of California, Santa Barbara. I love all things related to energy science, education, and design. This website is a place for me to put my resume out in the world, as well as to hone my web design skills.",
-    "contactmessage":"The contact form is not currently implemented! Please get in touch by emailing me directly: ben.luginbuhl@gmail.com",
+    "contactmessage":"The contact form is not currently implemented! Please get in touch by emailing me directly: ben.luginbuhl (at) gmail.com",
     "email": "ben.luginbuhl@gmail.com",
     "phone": "",
     "address":{
@@ -21,6 +21,11 @@
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/benluginbuhl/",
         "className":"fa fa-linkedin"
+      },
+      {
+        "name":"google-scholar",
+        "url":"https://scholar.google.com/citations?user=lAqY7oIAAAAJ&hl=en&oi=ao",
+        "className":"fa fa-google-plus"
       },
       {
         "name":"github",
