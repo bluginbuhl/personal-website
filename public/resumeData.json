@@ -20,22 +20,22 @@
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/benluginbuhl/",
-        "className":"fa fa-linkedin"
+        "className":"fab fa-linkedin"
       },
       {
         "name":"google-scholar",
         "url":"https://scholar.google.com/citations?user=lAqY7oIAAAAJ&hl=en&oi=ao",
-        "className":"fa fa-google-plus"
+        "className":"fab fa-google"
       },
       {
         "name":"github",
         "url":"http://github.com/bluginbuhl",
-        "className":"fa fa-github"
+        "className":"fab fa-github"
       },
       {
         "name":"facebook",
         "url":"http://facebook.com/ben.luginbuhl.5",
-        "className":"fa fa-facebook"
+        "className":"fab fa-facebook"
       }
    ]
   },
