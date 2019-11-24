@@ -836,7 +836,7 @@ call-to-action .button {
 #contact h1 span { display: none; }
 #contact h1:before {
   font-family: 'FontAwesome';
-  content: "\f0e0";
+  content: '';
   padding-right: 10px;
   font-size: 72px;
   line-height: 72px;

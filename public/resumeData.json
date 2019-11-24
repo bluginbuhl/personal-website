@@ -25,7 +25,17 @@
       {
         "name":"google-scholar",
         "url":"https://scholar.google.com/citations?user=lAqY7oIAAAAJ&hl=en&oi=ao",
-        "className":"fab fa-google"
+        "className":"ai ai-google-scholar"
+      },
+      {
+        "name":"researchgate",
+        "url":"https://www.researchgate.net/profile/Benjamin_Luginbuhl",
+        "className":"ai ai-researchgate"
+      },
+      {
+        "name":"orcid",
+        "url":"https://orcid.org/0000-0001-5062-0994",
+        "className":"ai ai-orcid"
       },
       {
         "name":"github",
@@ -35,7 +45,7 @@
       {
         "name":"facebook",
         "url":"http://facebook.com/ben.luginbuhl.5",
-        "className":"fab fa-facebook"
+        "className":"fab fa-facebook-f"
       }
    ]
   },
