@@ -156,6 +156,7 @@ ul#nav {
 
   /* center align the menu */
   text-align: center;
+  background-color: #11111133;
 }
 ul#nav li {
   position: relative;
