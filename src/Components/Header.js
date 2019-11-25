@@ -36,6 +36,7 @@ class Header extends Component {
                <ul className="occupation">
                  <li>Materials Chemistry</li>
                  <li>Data Science</li>
+                 <li>Renewable Energy</li>
                  <li>Design</li>
                  <li>Education</li>
                </ul>
