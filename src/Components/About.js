@@ -26,7 +26,8 @@ class About extends Component {
               </p>
             </div> */}
             <div className="columns download">
-              <a href={resumeDownload} className="button" alt=""><i className="fa fa-download" alt=""></i>Download Resume</a>
+              <p classname="main-col">You can download a current copy of my r&#233;sum&#233;/CV using the button below.</p>
+              <a href={resumeDownload} className="button" alt=""><i className="fa fa-download" alt=""></i>Download R&#233;sum&#233;</a>
             </div>
           </div>
         </div>
