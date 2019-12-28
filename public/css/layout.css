@@ -255,7 +255,6 @@ ul#nav li.current a {
 #resume {
   background: #fff;
   padding-top: 90px;
-  padding-bottom: 72px;
   overflow: hidden;
 }
 
@@ -299,50 +298,39 @@ ul#nav li.current a {
 }
 
 /*----------------------------------------------*/
-/*	Skill Bars
+/*	Skills
 /*----------------------------------------------*/
 
-.bars {
-	width: 95%;
-	float: left;
-	padding: 0;
-	text-align: left;
+#skills {
+  background: #fff;
+  padding-bottom: 72px;
+  overflow: hidden;
 }
-.bars .skills {
-  	margin-top: 20px;
-  list-style: none;
+
+#skills h1 {
+  font: 18px/24px 'opensans-bold', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
+
+#skills h1 span {
+  border-bottom: 3px solid #009090;
+  padding-bottom: 6px;
+}
+
 .bars li {
-  position: relative;
-  	margin-bottom: 60px;
-  	background: #ccc;
-  	height: 20px;
-  	border-radius: 3px;
-}
-.bars li em {
-	font: 15px 'opensans-bold', sans-serif;
-  color: #313131;
-	/*text-transform: uppercase;*/
-  letter-spacing: 2px;
-	font-weight: normal;
-  position: relative;
-	top: -30px;
-}
-.bar-expand {
-  position: absolute;
-  left: 0;
-  top: 0;
-
-  margin: 0;
-  padding-right: 24px;
-  background: #008080;
   display: inline-block;
-  height: 20px;
-  line-height: 20px;
-  border-radius: 3px 0 0 3px;
+  color: #000;
+  background-color: #2aadad;
+  height: 30px;
+  border-radius: 3px;
+  padding: 5px 8px;
+  margin: 5px 5px;
 
-  visibility: hidden !important;
+  font-family: sans-serif;
+  font-weight: bold;
 }
+
 
 /*
 .git {
