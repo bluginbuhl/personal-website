@@ -81,32 +81,55 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"50%"
+        "name":"Git"
       },
       {
-        "name":"Python",
-        "level":"70%"
+        "name":"Python"
       },
       {
-        "name":"Graphic Design",
-        "level":"75%"
+        "name":"Graphic Design"
       },
       {
-        "name":"Blender",
-        "level":"50%"
+        "name":"Blender"
       },
       {
-        "name":"ReactJs",
-        "level":"40%"
+        "name":"ReactJs"
       },
       {
-        "name":"CSS",
-        "level":"80%"
+        "name":"CSS"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"HTML5"
+      },
+      {
+        "name":"InDesign"
+      },
+      {
+        "name":"Rails"
+      },
+      {
+        "name":"Mass Spectrometry"
+      },
+      {
+        "name":"Optical Spectroscopy"
+      },
+      {
+        "name":"Semiconductor Analysis"
+      },
+      {
+        "name":"Electron Microscopy"
+      },
+      {
+        "name":"Impedance Spectroscopy"
+      },
+      {
+        "name":"Linux"
+      },
+      {
+        "name":"OriginPro"
+      },
+      {
+        "name":"MS Office"
       }
     ]
   },
