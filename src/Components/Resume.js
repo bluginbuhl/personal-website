@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Skills from './Skills';
 
 class Resume extends Component {
   render() {

@@ -14,7 +14,7 @@
     /* header styles
    ------------------------------------------------------------------ */
    header .banner-text h1 {
-      font: 80px/1.1em 'opensans-bold', sans-serif;
+      font: 80px/1.1em 'opensans-light', sans-serif;
       letter-spacing: -1px;
       margin: 0 auto 12px auto;
    }
@@ -29,7 +29,7 @@
    ------------------------------------------------------------------ */
    header .banner { padding-bottom: 12px; }
    header .banner-text h1 {
-      font: 78px/1.1em 'opensans-bold', sans-serif;
+      font: 78px/1.1em 'opensans-light', sans-serif;
       letter-spacing: -1px;      
    }
    header .banner-text h3 {
@@ -111,8 +111,8 @@
    #nav-wrap > a {
 	   width: 48px;
 		height: 48px;
-		text-align: left;
-		background-color: #CC5200;
+		text-align: center;
+		background-color: #009090;
 		position: relative;
       border: none;
       float: right;
@@ -170,7 +170,7 @@
       height: auto;      
       margin: 0 auto; 
       padding: 0 4%;           
-      text-align: left;
+      text-align: center;
       border-bottom: 1px solid #2D2E34;
       border-bottom-style: dotted; 
    }
@@ -180,7 +180,7 @@
       margin: 0;
       padding: 0;      
       margin: 12px 0; 
-      line-height: 16px; /* reset line-height from 48px */
+      line-height: 20px; /* reset line-height from 48px */
       border: none;
    }  
 
@@ -191,7 +191,7 @@
       padding-bottom: 12px;
       padding-top: 6px;
    }
-   header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
+   header .banner-text h1 { font: 68px/1.1em 'opensans-light', sans-serif; }
    header .banner-text h3 {
       font: 16px/1.9em 'librebaskerville-regular', serif;
       width: 85%;

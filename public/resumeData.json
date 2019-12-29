@@ -4,7 +4,7 @@
     "occupation":"Materials Chemistry   |   Data Science   |   Renewable Energy   |   Education",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"Hi, my name's Ben. I'm a PhD candidate in Chemistry at the University of California, Santa Barbara. I love all things related to energy science, education, and design. This website is a place for me to put my resume out in the world, as well as to hone my web design skills.",
+    "bio":"Hi, my name's Ben. I'm a PhD candidate in Chemistry at the University of California, Santa Barbara. I love all things related to energy science, education, and design. This website is a place for me to put my résumé out in the world, as well as to hone my web design skills.",
     "contactmessage":"The contact form is not currently implemented! Please get in touch by emailing me directly: ben.luginbuhl (at) gmail.com",
     "email": "ben.luginbuhl@gmail.com",
     "phone": "",
@@ -41,11 +41,6 @@
         "name":"github",
         "url":"http://github.com/bluginbuhl",
         "className":"fab fa-github"
-      },
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/ben.luginbuhl.5",
-        "className":"fab fa-facebook-f"
       }
    ]
   },
