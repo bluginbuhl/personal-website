@@ -5,7 +5,7 @@
     "description":"",
     "image":"profilepic.jpg",
     "bio":"Hi, my name's Ben. I'm a PhD candidate in Chemistry at the University of California, Santa Barbara. I love all things related to energy science, education, and design. This website is a place for me to put my résumé out in the world, as well as to hone my web design skills.",
-    "contactmessage":"The contact form is not currently implemented! Please get in touch by emailing me directly: ben.luginbuhl (at) gmail.com",
+    "contactmessage":"The contact form is not currently implemented! Please get in touch by emailing me directly: ben.luginbuhl (at) gmail.com, or by direct message on LinkedIn.",
     "email": "ben.luginbuhl@gmail.com",
     "phone": "",
     "address":{
@@ -18,28 +18,28 @@
     "resumedownload":"/Luginbuhl_CV.pdf",
     "social":[
       {
-        "name":"linkedin",
+        "name":"Linked In",
         "url":"https://www.linkedin.com/in/benluginbuhl/",
         "className":"fab fa-linkedin"
       },
       {
-        "name":"google-scholar",
+        "name":"Google Scholar",
         "url":"https://scholar.google.com/citations?user=lAqY7oIAAAAJ&hl=en&oi=ao",
         "className":"ai ai-google-scholar"
       },
       {
-        "name":"researchgate",
+        "name":"ResearchGate",
         "url":"https://www.researchgate.net/profile/Benjamin_Luginbuhl",
         "className":"ai ai-researchgate"
       },
       {
-        "name":"orcid",
+        "name":"ORCID",
         "url":"https://orcid.org/0000-0001-5062-0994",
         "className":"ai ai-orcid"
       },
       {
-        "name":"github",
-        "url":"http://github.com/bluginbuhl",
+        "name":"Github",
+        "url":"https://github.com/bluginbuhl",
         "className":"fab fa-github"
       }
    ]
